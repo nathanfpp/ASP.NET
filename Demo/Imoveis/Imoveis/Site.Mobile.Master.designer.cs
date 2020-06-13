@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Imoveis {
+namespace Numeros {
     
     
     public partial class Site_Mobile {

@@ -1,0 +1,6 @@
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Debug\Backend.csprojAssemblyReference.cache
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\bin\Debug\Backend.dll
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\bin\Debug\Backend.pdb
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Debug\Backend.dll
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Debug\Backend.pdb

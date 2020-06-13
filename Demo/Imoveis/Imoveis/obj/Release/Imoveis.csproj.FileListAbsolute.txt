@@ -72,3 +72,5 @@ C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\obj\Release\Imoveis
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\obj\Release\Imoveis.dll
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\obj\Release\Imoveis.pdb
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\obj\Release\Imoveis.csprojAssemblyReference.cache
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\bin\Backend.dll
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\bin\Backend.pdb
